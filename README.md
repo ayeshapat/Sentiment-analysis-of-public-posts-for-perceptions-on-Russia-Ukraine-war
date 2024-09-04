@@ -1,4 +1,4 @@
-Sentiment-analysis-of-public-posts-for-perceptions-on-Russia-Ukraine-war
+# Sentiment-analysis-of-public-posts-for-perceptions-on-Russia-Ukraine-war
 This repository contains the course project for MIE1624 (Introduction to Data Science and Analytics), which focuses on conducting sentiment analysis of online posts to gauge public perception of the Russia-Ukraine war. 
 The project leverages these insights to recommend strategies for the Ukrainian government to improve its international image.
 
